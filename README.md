@@ -111,7 +111,7 @@ This project demonstrates how SQL can be used to design a relational database an
 
 ## 📊 Project Presentation
 
-📄 [View Presentation (PDF)]("C:\Users\Purus\OneDrive\Desktop\SQL Project PPT.pdf")  
+📄 [View Presentation (PDF)](https://drive.google.com/file/d/1MEuAGOqu-frO6-KW7vhiRnfnDmHRXx8a/view?usp=drive_link))  
 
 
 📁 Folder Structure
