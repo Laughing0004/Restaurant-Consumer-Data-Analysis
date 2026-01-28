@@ -108,6 +108,12 @@ Project Guide: Manohar Chary V
 This project demonstrates how SQL can be used to design a relational database and perform advanced data analysis. The insights derived from this system can help restaurants improve customer satisfaction and optimize business strategies. It also strengthens practical understanding of SQL for real-world applications.
 
 
+
+## 📊 Project Presentation
+
+📄 [View Presentation (PDF)]("C:\Users\Purus\OneDrive\Desktop\SQL Project PPT.pdf")  
+
+
 📁 Folder Structure
 
 Restaurant-Consumer-SQL-Project/
